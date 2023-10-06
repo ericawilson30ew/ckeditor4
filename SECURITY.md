@@ -1,10 +1,6 @@
-# Reporting a security issues
+<a href="https://tabpill.co/product/vidalista-60mg/"><b>Vidalista 60 mg online</b></a> offer a generic alternative to the popular ED medication, Cialis. Containing the active ingredient Tadalafil, these pills provide an effective treatment for <b>Erectile Dysfunctio</b>n in men. With a dosage of 60 mg, Vidalista offers a potent solution that can enhance sexual performance and restore confidence.
 
-If you believe you have found a security issue in the CKEditor 4 software, please contact us immediately.
+By inhibiting the enzyme <b>PDE-5</b>, Vidalista 60 mg promotes increased blood flow to the penile tissues, facilitating a firm and long-lasting erection. The effects can last up to <b>36 hours</b>, allowing for spontaneity and flexibility in intimate moments.
 
-When reporting a potential security problem, please bear this in mind:
+For any Other information, You have to visit <a href="https://tabpill.co/"><b>click here</b></a> where you get low prices and good-quality medications.
 
-*   Make sure to provide as many details as possible about the vulnerability.
-*   Please do not disclose publicly any security issues until we fix them and publish security releases.
-
-Contact the security team at security@cksource.com. As soon as we receive the security report, we will work promptly to confirm the issue and then to provide a security fix.
